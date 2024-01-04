@@ -1,0 +1,80 @@
+
+
+Version:	3.50
+CmdLine:	F:\Java\Class\ClassManagement\ClassRun\ClassRun.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\Java\Class\ClassManagement\ClassRun\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.006.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-11\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+JRE paths:	C:\Program Files\Java\jdk-11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (OK)
+Version string: 1.011.000_019 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe
+Launcher args:	-jar "F:\Java\Class\ClassManagement\ClassRun\ClassRun.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	F:\Java\Class\ClassManagement\src\ClassRun\ClassRun.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\Java\Class\ClassManagement\src\ClassRun\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.006.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-11\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+JRE paths:	C:\Program Files\Java\jdk-11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (OK)
+Version string: 1.011.000_019 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe
+Launcher args:	-jar "F:\Java\Class\ClassManagement\src\ClassRun\ClassRun.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	F:\Java\Class\ClassManagement\src\ClassRun\ClassRun.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\Java\Class\ClassManagement\src\ClassRun\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.006.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-11\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+JRE paths:	C:\Program Files\Java\jdk-11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (OK)
+Version string: 1.011.000_019 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe
+Launcher args:	-jar "F:\Java\Class\ClassManagement\src\ClassRun\ClassRun.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	F:\Java\Class\ClassManagement\src\ClassRun\ClassRun.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\Java\Class\ClassManagement\src\ClassRun\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.006.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-11\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+JRE paths:	C:\Program Files\Java\jdk-11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11\bin;D:\Util\TortoiseSVN\bin;D:\Study\SVN_STUDY\VIsualSVN Server\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\white\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\white\AppData\Local\atom\bin;C:\Users\white\AppData\Local\Microsoft\WindowsApps;D:\Utillll\IntelliJ IDEA 2023.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.1\bin;;C:\Program Files\Java\jdk-11\bin
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (OK)
+Version string: 1.011.000_019 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe
+Launcher args:	-jar "F:\Java\Class\ClassManagement\src\ClassRun\ClassRun.exe"
+Args length:	62/32768 chars
+Exit code:	0
